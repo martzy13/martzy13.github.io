@@ -13,7 +13,7 @@
 }
 
 // Several accent colors, choose one, or create your own!
-$accent-color: #3CA2A2;    // original =)
+$accent-color: #00547a;    // original =)
 //$accent-color: #C38FD6;  // velvet
 //$accent-color: #8FD6B3;  // greenish
 //$accent-color: #35B4DE;  // bluinsh
@@ -22,9 +22,9 @@ $accent-color: #3CA2A2;    // original =)
 
 body {
   padding-top: 80px;
-  color: #ddd;
-  background-color: #292929;
-  background-image: url(./pics/triangles.png);
+  color: #151515;
+  background-color: #FFFFFF;
+
 }
 .copyright {
   color: #ffffff;
@@ -44,8 +44,8 @@ body {
 }
 
 .well {
-  background-color: #444;
-  box-shadow: 0px 0px 0px 0px, 0px 8px 16px rgba(0, 0, 0, 0.2);
+  background-color: #d3d3d3;
+
   border: 0px;
   border-radius: 6px;
 }
@@ -299,7 +299,7 @@ nav.shrink .navbar-toggle {
 //                    Footer
 //********************************************************
 .footer-distributed {
-  background-color: #292c2f;
+  background-color: #FFFFFF;
   font: normal 16px sans-serif;
   padding: 20px 25px;
   margin-top: 80px;
